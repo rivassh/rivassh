@@ -9,10 +9,11 @@
 ## 👯 I’m looking to collaborate on :
 - Helm Chart
 - Laravel
-- processmaker
+- Processmaker
+- Cal.com
 
 ## 🌱 I’m currently learning :
-- K*S
+- K8S
 - Flutter
 - Unity
 - Blockchain
@@ -20,10 +21,10 @@
 - .NET, Ruby on Rails, Spring boot to get some ideas
 
 ## 🤔 I’m looking for help with :
-- crawling dashboard with actions
-- simple cms with github pages
-- real live chat with websocket,sse etc.
-- booking aggregator 
+- Crawling dashboard with actions
+- Simple cms with github pages
+- Real live chat with websocket,sse etc.
+- Booking websites aggregator 
 <!--
 **hmdshariati/hmdshariati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
